@@ -1,0 +1,21 @@
+/*
+const express = require("express");
+const router = express.Router();
+
+const adminRoute = require("../Controllers/adminController");
+
+// -- Admin -- //
+    // 
+
+router.route("/admin")
+    .get(adminRoute.getAllAdmins)
+    .post(adminRoute.createAdmin)
+    .put(adminRoute.updateAdmin)
+    .delete(adminRoute.deleteAdmin)
+    .get(adminRoute.getOneAdmin)
+    .get(adminRoute.getAdminByRole)
+    .get(adminRoute.getAdminByDepartment)
+    .get(adminRoute.getAdminByGender)
+    .get(adminRoute.getAdminByAge)
+    .
+*/
